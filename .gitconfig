@@ -1,0 +1,5 @@
+[user]
+name = Theme Egg
+email = themeeggofficial@gmail.com
+[includeIf "gitdir:~/work/"]
+    path = ~/work/.gitconfig
