@@ -24,9 +24,9 @@ permission notices:
 
   SEO Engine is released under the GPL
 
-  Special Thanks to http://devel.kostdoktorn.se/.
+  Special Thanks to http://www.prelovac.com/vladimir
 
-  Forked from https://wordpress.org/plugins/limit-login-attempts/ plugin.
+  Forked from https://wordpress.org/plugins/seo-image/ plugin
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
