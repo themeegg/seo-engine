@@ -27,7 +27,7 @@ TITLE attribute play lesser role but is important for visitors as this text will
 1. Upload the whole plugin folder to your /wp-content/plugins/ folder.
 2. Go to the Plugins page and activate the plugin.
 3. Use the Options page to modify ALT and TITLE options. Turn on Override ALT tag and TITLe tag if you didnt not add these anywhere.
-4. Note that SEO SEO Engine works by modifying HTML output on the frontend of you site, and does not modyfiy images in your media gallery or while editing the post See [this link for more](https://wordpress.org/support/topic/it-does-work-you-just-wont-see-it-in-the-backend)
+4. Note that SEO SEO Engine works by modifying HTML output on the frontend of you site, and does not modyfiy images in your media gallery.
 
 == License ==
 
@@ -57,4 +57,4 @@ Yes, you should create an account with Google Webmaster Central and enable enhna
 
 = Can I contribute to this plugin? =
 
-Yes, visit <a href="github.com/themeegg/seo-engine">SEO Engine GITHub</a> and contribute.
+Yes, visit <a href="github.com/themeegg/seo-engine">GitHub</a> and contribute.
