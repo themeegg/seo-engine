@@ -1,11 +1,11 @@
 {
-  "name": "social-icons-lite",
-  "title": "Social Icons Lite",
+  "name": "seo-engine",
+  "title": "SEO Engine",
   "version": "1.0.0",
-  "homepage": "https://themeegg.com/plugins/social-icons-lite/",
+  "homepage": "https://themeegg.com/plugins/seo-engine/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/themeegg/social-icons-lite.git"
+    "url": "https://github.com/themeegg/seo-engine.git"
   },
   "license": "GPL-3.0+",
   "main": "Gruntfile.js",

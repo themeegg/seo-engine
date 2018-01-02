@@ -16,10 +16,6 @@ ALT attribute is important part of search engine optimization. It describes your
 
 TITLE attribute play lesser role but is important for visitors as this text will automatically appear in the tooltip when mouse is over the image.
 
-Special Thanks to  Vladimir Prelovac.
-
-If you like what I do in WordPress, you will also like the [ManageWP](https://managewp.com "Manage WordPress sites") service.
-
 == Changelog ==
 
 = 2017/01/01 - 1.0.0 =
